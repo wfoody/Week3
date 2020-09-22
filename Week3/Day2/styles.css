@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    border-bottom: none;
+    height: 100%;
 }
 
 h1 {
@@ -11,8 +11,11 @@ h1 {
 
 div {
     border: 30px solid lightgrey;
-    height: 100%;
     border-bottom: none;
+}
+
+tr {
+    height: 30px;
 }
 
 td {
@@ -57,6 +60,7 @@ table {
     width: 15px;
     height: 15px;
     border: none;
+    margin-bottom: 10%;
 }
 
 #ball3 {
@@ -64,5 +68,14 @@ table {
     width: 15px;
     height: 15px;
     border: none;
-    margin-right: 15%;
+    margin-left: 87%;
+    margin-bottom: 10%;
+}
+
+.touchbar {
+    background-color: gray;
+    width: 150px;
+    height: 30px;
+    margin-left: 200px;
+    margin-top: 30px;
 }
