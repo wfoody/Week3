@@ -1,0 +1,68 @@
+body {
+    background-color: black;
+    border-bottom: none;
+}
+
+h1 {
+    color:white;
+    text-align: right;
+    padding-right: 18.5%;
+}
+
+div {
+    border: 30px solid lightgrey;
+    height: 100%;
+    border-bottom: none;
+}
+
+td {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+}
+
+table {
+    margin: 0 auto;
+    padding-top: 30px;
+    width: 100%;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.ball1 {
+    background-color: white;
+    width: 15px;
+    height: 15px;
+    border: none;
+    margin-left: 18%;
+    margin-top: 450px;
+}
+
+#ball2 {
+    background-color: white;
+    width: 15px;
+    height: 15px;
+    border: none;
+}
+
+#ball3 {
+    background-color: white;
+    width: 15px;
+    height: 15px;
+    border: none;
+    margin-right: 15%;
+}
